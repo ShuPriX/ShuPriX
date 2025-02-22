@@ -12,7 +12,7 @@ My journey in cybersecurity involves exploring cutting-edge tools, participating
 
 Here’s a quick glimpse of what I do and the skills and projects that define my passion for tech and security. 🚀
 
-![Shubhradeep's Tryhackme stats]{<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4040164" style='border:none;'></iframe>}
+[![TryHackMe Badge](https://tryhackme.com/api/badge/generate/4040164)](https://tryhackme.com/p/4040164)
 
 ![Shubhradeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuPriX&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuPriX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
