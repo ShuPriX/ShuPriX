@@ -6,7 +6,7 @@
 
 Building offensive security tooling, detection engineering projects, and cloud security solutions while researching enterprise attack techniques and defensive controls.
 
-[LinkedIn](https://www.linkedin.com/in/shubhradeep-paul-n0-r0llb4ck/) • [Portfolio]((https://portfolio-eta-pink-82.vercel.app/)) • [Email](mailto:contactshubhradeep612@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/shubhradeep-paul-n0-r0llb4ck/) • [Portfolio](https://portfolio-eta-pink-82.vercel.app/) • [Email](mailto:contactshubhradeep612@gmail.com) 
 
 ---
 
